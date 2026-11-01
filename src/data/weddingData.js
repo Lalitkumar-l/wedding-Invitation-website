@@ -69,7 +69,7 @@ Best wishes!`,
       image: './images/story-together.png'
     },
     {
-      year: '2024',
+      year: '2026',
       title: 'Engagement',
       text: 'One step closer to forever.',
       image: './images/story-engagement.png'
